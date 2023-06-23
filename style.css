@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&family=Roboto:wght@300&display=swap');
+html,body{
+    height: 90%;
+    width: 53%;
+    margin: auto;
+font-family: 'Roboto', sans-serif;
+background-color: rgba(166, 204, 226, 0.582);
+
+}
+.button{
+    color: white;
+    width:66px;
+    padding:20px;
+    margin: 0 3px;
+   /* border:2px solid rgb(44, 171, 160);*/
+   background: #3a4452;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgba(99, 180, 191, 0.539);
+}
+
+.row{
+    margin: 8px 0;
+}
+.row input{
+    width:291px;
+    font-size: 20px;
+margin: 0;
+padding: 10px 0px;
+/*border: 2px solid rgb(44, 171, 160);*/
+border-radius: 5px;
+}
+.box{
+    border:2px solid rgb(55, 83, 83);
+    border-radius: 10px;
+    background: #3a4452;
+}
+#bb{
+    width:140px;
+    padding:20px;
+    margin: 0 3px;
+    /*border:2px solid rgb(44, 171, 160);*/
+    background: #2f343c;
+    border-radius: 9px;
+    cursor: pointer;
+
+}
+#bb:hover{
+    background-color: rgba(114, 178, 187, 0.416);
+}
+.button{
+    box-shadow:-8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
+}
+#i{
+    font-size:large;
+}
+.input{
+    background-color: rgb(45, 42, 43);
+    color:white;
+}
